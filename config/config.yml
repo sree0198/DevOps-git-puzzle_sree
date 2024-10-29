@@ -7,4 +7,4 @@ app:
 server:
   host: "localhost"
   port: 3000
-  enable_logs: true  # Change to false in faulty commit
+  enable_logs: false  
