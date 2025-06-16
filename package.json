@@ -1,0 +1,8 @@
+{
+  "name": "devops-git-puzzle",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building...'",
+    "test": "echo 'Running tests...'"
+  }
+}
